@@ -1,5 +1,5 @@
 //	nama	: naufal ariful amri
-//	npm		: 140810180009
+//	npm	: 140810180009
 //	kelas	: A
 //	tanggal	: 19 maret 2019
 
